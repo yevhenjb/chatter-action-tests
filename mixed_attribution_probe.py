@@ -4,3 +4,5 @@ def ai_value():
 # Manual section added outside of AI agent.
 def manual_value():
     return "manual-value"
+
+def feature_from_a(): pass
