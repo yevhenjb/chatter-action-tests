@@ -18,3 +18,5 @@ jobs:
           fetch-depth: 0
 
       - uses: qodana/chatter-action@main
+        with:
+          comment: false
