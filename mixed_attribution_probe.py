@@ -6,3 +6,4 @@ def manual_value():
     return "manual-value"
 
 def feature_from_b(): pass
+def feature_from_a(): pass
